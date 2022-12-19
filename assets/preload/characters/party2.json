@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				140,
+				20
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Party Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				40,
+				-55
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Party Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				100,
+				106
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Party Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				40
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Party right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Party Idle",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Party2",
+	"position": [
+		70,
+		160
+	],
+	"healthicon": "partygoer",
+	"flip_x": false,
+	"healthbar_colors": [
+		234,
+		199,
+		79
+	],
+	"camera_position": [
+		-150,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1.1
+}
